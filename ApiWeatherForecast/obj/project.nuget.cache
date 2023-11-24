@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ogCdjP9B3HKsmRIrrpaJEFuCt6K9UGn3o1ki3dsLrTtM63SF0XbNuNMQa7DAzNr2U6qfjceJYt7bGQRz+8MJgw==",
+  "dgSpecHash": "G4yvVEUgpmqzg2ARLUWPS6YOhch0umnRR+gEYc1hZ2BpQkH+UsfzIihn5lmsqPMukXR9imeQ9QVy460R4F/1Eg==",
   "success": true,
   "projectFilePath": "C:\\Users\\vitor\\dev\\ApiWeatherForecast\\WeatherForecast\\ApiWeatherForecast\\ApiWeatherForecast.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\vitor\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\vitor\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\vitor\\.nuget\\packages\\stackexchange.redis\\2.7.4\\stackexchange.redis.2.7.4.nupkg.sha512",
+    "C:\\Users\\vitor\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
